@@ -1,0 +1,8 @@
+1. Tuberculosis (TB) Chest X-ray Database
+https://www.kaggle.com/datasets/tawsifurrahman/tuberculosis-tb-chest-xray-dataset
+
+2. NIH Chest X-rays
+https://www.kaggle.com/datasets/nih-chest-xrays/data
+
+3. Advancing Tuberculosis Detection in Chest X-rays: A YOLOv7-Based Approach
+https://www.mdpi.com/2078-2489/14/12/655
